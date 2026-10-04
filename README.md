@@ -2,7 +2,7 @@
 
 
 
-## AWS | EKS Velero Data Migration
+## AWS | Velero Disaster Recovery and Data Migration
 Velero is an open-source Kubernetes tool for backup, restore, disaster recovery, and cluster migration. It enables teams to back up Kubernetes resources and persistent data, store backups in object storage such as Amazon S3, and restore workloads to the same or another Kubernetes cluster.
 
 
